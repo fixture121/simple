@@ -1,7 +1,5 @@
-main: A Basic Workflow
-
+name: A Basic Workflow
 on: push
-
 jobs:
   # jobs require job IDs (job1, job2)
   job1:
